@@ -9,7 +9,6 @@ Computer science student and web developer. I build practical tools with Django,
 | ExamPress | Online exam platform: question banks, timed exams, auto-grading, proctoring, analytics | Private — demo below |
 | ChatLift | Client-side tool that turns AI conversations into summaries, Markdown, JSON, and handoff prompts | [chatlift](https://github.com/malikmuneeb37/chatlift) |
 | LinkStash | Private bookmark manager with tags, notes, import/export, duplicates, and PWA support | [linkstash](https://github.com/malikmuneeb37/linkstash) |
-| Library Management System | Console app for book CRUD, borrowing, and returning with JSON storage | [library-management-system](https://github.com/malikmuneeb37/library-management-system) |
 | Vehicle Parking System | Java Swing desktop app for managing parking slots | [vehicle-parking-system](https://github.com/malikmuneeb37/vehicle-parking-system) |
 
 ## Live demos
