@@ -15,7 +15,7 @@ Computer science student and web developer. I build practical tools with Django,
 
 - ChatLift: https://malikmuneeb37.github.io/chatlift/
 - LinkStash: https://malikmuneeb37.github.io/linkstash/
-- ExamPress: https://muneeb42.pythonanywhere.com
+- ExamPress (temporary live demo): https://functioning-degrees-last-unions.trycloudflare.com
 
 ## Skills
 
