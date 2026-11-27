@@ -21,6 +21,10 @@ Computer science student and web developer. I build practical tools with Django,
 
 Python, Django, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Java Swing, SQLite/PostgreSQL, Git, GitHub Actions.
 
-## Open to
+## Services
 
-Freelance web development, Django/Next.js bug fixes, landing pages, and tutoring in programming fundamentals.
+- **Programming tutoring** — C++, OOP, Data Structures, Python, and Django: concept explanations, assignment debugging, and project guidance.
+- **Small web jobs** — landing pages, bug fixes, Django/Next.js tweaks, and deployment.
+- **ExamPress** — demo walkthrough and licensing for students/institutes.
+
+Contact: open an issue on [this repo](https://github.com/malikmuneeb37/malikmuneeb37/issues) with your task, budget, and deadline.
